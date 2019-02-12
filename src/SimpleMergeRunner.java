@@ -1,6 +1,3 @@
-/**
- * Created by Teacher on 1/28/2019.
- */
 public class SimpleMergeRunner {
     public static void main(String[] args)
     {
